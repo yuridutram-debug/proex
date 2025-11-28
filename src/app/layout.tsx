@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "ProeX - Explore o Mundo ao Seu Redor",
+  description: "Descubra trilhas secretas, conecte-se com locais e participe de experiências únicas",
 };
 
 export default function RootLayout({

@@ -196,7 +196,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                  ExploreLocal
+                  ProeX
                 </h1>
                 <p className="text-xs text-gray-600">Descubra o extraordinário</p>
               </div>
@@ -775,7 +775,7 @@ export default function Home() {
                 <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-xl flex items-center justify-center">
                   <Globe className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-xl font-bold">ExploreLocal</span>
+                <span className="text-xl font-bold">ProeX</span>
               </div>
               <p className="text-gray-400 text-sm">
                 Conectando pessoas a experiências autênticas e lugares extraordinários
@@ -810,7 +810,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400 text-sm">
-            <p>© 2024 ExploreLocal. Todos os direitos reservados.</p>
+            <p>© 2024 ProeX. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
